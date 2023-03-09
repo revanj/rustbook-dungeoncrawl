@@ -1,4 +1,3 @@
-use std::arch::x86_64::__cpuid;
 use crate::prelude::*;
 
 const NUM_ROOMS: usize = 20;
